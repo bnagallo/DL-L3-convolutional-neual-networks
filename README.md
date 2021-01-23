@@ -1,2 +1,9 @@
-# DL-L3-convolutional-neual-networks
-# convolutional-neural-networks
+# Convolutional Neural Networks
+
+Collection of Jupyter Notebooks focussing on Convolutional Neural Networks.
+-Convolutional Visualization
+-MNIST MLP Model
+-CIFAR Dataset CNN Model
+
+All material provided by Udacity
+
